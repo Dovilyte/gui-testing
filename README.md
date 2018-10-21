@@ -11,3 +11,9 @@ Seleniumas
 XPATH selektoriai
 Rankinis testavimas
 Visual Studio Code Integrated development enviroment
+
+## Žodynas
+
+Staged Changes
+Initialize repository
+Commit
