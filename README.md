@@ -13,7 +13,7 @@ Rankinis testavimas
 Visual Studio Code Integrated development enviroment
 Github
 Markdown
-Testavimo teorija
+[Testavimo teorija](automatinis-testavimas.md)
 
 ## Žodynas
 
