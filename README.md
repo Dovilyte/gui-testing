@@ -11,6 +11,8 @@ Seleniumas
 XPATH selektoriai
 Rankinis testavimas
 Visual Studio Code Integrated development enviroment
+Github
+Markdown
 
 ## Žodynas
 
