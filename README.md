@@ -10,7 +10,7 @@ Išmokti GUI testavimą.
 - Seleniumas
 - XPATH selektoriai
 - Rankinis testavimas
-- Visual Studio Code
+- [Visual Studio Code](visual-studio-code.md)
 - Integrated development enviroment
 - Github
 - Markdown
