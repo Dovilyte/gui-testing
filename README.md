@@ -5,7 +5,7 @@ Išmokti GUI testavimą.
 
 ## Uždaviniai
 
-- CSS selektoriai
+- [CSS selektoriai](CSS-selectors.md)
 - GIT versijų kontrolė
 - Seleniumas
 - XPATH selektoriai
