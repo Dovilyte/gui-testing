@@ -11,6 +11,7 @@ pvz. Reggresion tests - Testai, pagal kuriuos nustatoma, ar programa pritaikius 
 Geriausias automatinio testavimo tikslas yra regresijos testavimas ir regresijos testai visada vykdomi atsižvelgiant į žinomą būklę ir deterministinę sistemą, kad būtų galima nustatyti bazinės linijos pokyčius ir gauti reikšmingą rezultatą automatizuotame bandyme, yra tik tada, kai bandymas vykdomas ir bent kartą perduodama rankiniu būdu, kad galėtumėte palyginti automatizuoto paleidimo rezultatus su rankiniu būdu atliktu veiksmu.
 Istorijos turėtų būti automatizuotos (įgyvendinimas) per sprintą ir tik tada, kai funkcija yra visiškai patikrinta rankiniu būdu.
 *Galima dar susijusių straisnių paskaityt iš šitos nuorodos nukreipia.
+
 ## Automated GUI Testing: How to Get It Right
 https://testlio.com/blog/how-to-automate-gui-testing/
 1. Automatinis testas yra kritinis.
@@ -118,6 +119,7 @@ Pattern => Visi bandymai atitinka modelį
 Bandymai atliekami iš komandinės eilutės.
 13. Sukurkite bandymo ataskaitą.
 14. Integravimas su Git.
+
 ## Top 15 UI Test Automation Best Practices You Should Follow
 https://www.blazemeter.com/blog/top-15-ui-test-automation-best-practices-you-should-follow
 1. Negalima pasikliauti TIK tik UI testų automatizavimu.
@@ -137,42 +139,5 @@ https://www.blazemeter.com/blog/top-15-ui-test-automation-best-practices-you-sho
 15. Nustatyti išsamias automatinių bandymų ataskaitas.
 (Straipsnyje punktai paaiškinti išsamiai.)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-> div <div>
-> .table <div class="table">
-> #name <div id="name">
-
-
-
-
-
-# <-- id
-. <-- class
-<-- elem
-
-
-`elemen.klases_pavadinimas`
-`element#id_pavadinimas`
+## UI Testing
+https://www.guru99.com/gui-testing.html
