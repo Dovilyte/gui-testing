@@ -143,12 +143,14 @@ https://www.blazemeter.com/blog/top-15-ui-test-automation-best-practices-you-sho
 https://www.guru99.com/gui-testing.html
 GUI - graphical user interface. (Grafinė naudotojo sąsaja) Tai grafikos priemonėmis pagrįsta sąsaja tarp žmogaus ir kompiuterio. 
 Ji yra naudojama komandoms parinkti, programoms paleisti, failų ir katalogų vardams parinktims, paramentrams stebėti bei parinkti, taip pat kitiems veiksmams atlikti naudojami ekrane rodomi dialogo langai, meniu punktai ir mygtukai, kuriais manipuliuojama pele arba klaviatūra. Naujas, perspektyvus įvedimo įrenginys yra lietimui jautrus ekranas. Su juo tuos pačius veiksmus galima atlikti liečiant ekraną ranka ar specialiu rašikliu. 
+
 Pagrindiniai grafinės sąsajos komponentai:
  - Darbalaukis
 - Langas
 - Piktograma
 - Meniu
 - Pelės žymeklis
+
 GUI privalumai:
 - Visi taikomųjų programų langai tampa standartizuoti. 
 - Visos taikomosios programos dirba pagal panašius principus, kuriuos nustato kompiuterio operacinė sistema. 
