@@ -156,5 +156,6 @@ GUI privalumai:
 - Visos taikomosios programos dirba pagal panašius principus, kuriuos nustato kompiuterio operacinė sistema. 
 - Naudojant GUI palengvėja ir supaprastėja naujų programinių produktų kūrimas. 
 Daugumoje grafinių sąsajų naudojamas įvykių valdomas programavimas. Programuotojas turi tinkamai pateikti ir užregistruoti kodą, kuris sistemos automatiškai iškviečiamas atsakant į veiksmus pele arba klaviatūra.
+
 GUI - is a form of user interface that allows users to interact with electonic devices through graphical icons and visual indicators such as secondary notation, instead of text - based user interfaces, typed command - line labels or text navigation. 
 
