@@ -153,5 +153,5 @@ GUI privalumai:
 Visi taikomųjų programų langai tampa standartizuoti. 
 Visos taikomosios programos dirba pagal panašius principus, kuriuos nustato kompiuterio operacinė sistema. 
 Naudojant GUI palengvėja ir supaprastėja naujų programinių produktų kūrimas. 
-Daugumoje grafinių sąsajų anudojamas įvykių valdomas programavimas. Programuotojas turi tinkamai pateikti ir užregistruoti kodą, kuris sistemo automatiškai iškviečiamas atsakant į veiksmus pele arba klaviatūra.  
+Daugumoje grafinių sąsajų naudojamas įvykių valdomas programavimas. Programuotojas turi tinkamai pateikti ir užregistruoti kodą, kuris sistemos automatiškai iškviečiamas atsakant į veiksmus pele arba klaviatūra.  
 
