@@ -167,6 +167,7 @@ GUI - thee are two types of interfaces for a computer application.
 - If we have to do GUI testing we first check that the images should be comletely visible in different browsers. 
 - Also, the links are available, and the button should work when cliced.
 - Also, if the user resizes the screen, neither images nor content should shrink or crop or overlap.
+
 What do you check in GUI testing? 
 - Check all the GUI elements for size, position, width, lenght and acceptance of characters or numbers.
 - Check you can execute the intended funcionality of the applicationusing GUI. 
