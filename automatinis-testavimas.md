@@ -157,5 +157,13 @@ GUI privalumai:
 - Naudojant GUI palengvėja ir supaprastėja naujų programinių produktų kūrimas. 
 Daugumoje grafinių sąsajų naudojamas įvykių valdomas programavimas. Programuotojas turi tinkamai pateikti ir užregistruoti kodą, kuris sistemos automatiškai iškviečiamas atsakant į veiksmus pele arba klaviatūra.
 
-GUI - is a form of user interface that allows users to interact with electonic devices through graphical icons and visual indicators such as secondary notation, instead of text - based user interfaces, typed command - line labels or text navigation. 
+GUI - is a form of user interface that allows users to interact with electonic devices through graphical icons and visual indicators such as secondary notation, instead of text - based user interfaces, typed command - line labels or text navigation.
 
+GUI - thee are two types of interfaces for a computer application.
+Command Line Interface is where you type text and computer responds to that command.
+GUI stands for Graphical user interface where you interact with the computer using images ratherthan text.
+GUI testing is a process of testing the system GUI of the aplication under test. GUI testing involves checing the screens with the controls like menus, buttons, icons, and all type of bars - toolbar, menu bar, dialog boxes snd windows, etc.
+GUI is what user sees. A user does not see the source code. The interface is visible to the user. Especially the focus is on the design stucture, omages that the are working properly or not.
+If we have to do GUI testing we first check that the images shold be comletely visible in different browsers. 
+Also, the links are available, and the button showl work when cliced.
+Also, if the user resizes the screen, neither images nor content should shrink or crop or overlap. 
