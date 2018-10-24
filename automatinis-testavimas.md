@@ -164,6 +164,6 @@ GUI - thee are two types of interfaces for a computer application.
 - GUI stands for Graphical user interface where you interact with the computer using images ratherthan text.
 - GUI testing is a process of testing the system GUI of the aplication under test. GUI testing involves checing the screens with the controls like menus, buttons, icons, and all type of bars - toolbar, menu bar, dialog boxes snd windows, etc.
 - GUI is what user sees. A user does not see the source code. The interface is visible to the user. Especially the focus is on the design stucture, omages that the are working properly or not.
-- If we have to do GUI testing we first check that the images shold be comletely visible in different browsers. 
-- Also, the links are available, and the button showl work when cliced.
+- If we have to do GUI testing we first check that the images should be comletely visible in different browsers. 
+- Also, the links are available, and the button should work when cliced.
 - Also, if the user resizes the screen, neither images nor content should shrink or crop or overlap. 
