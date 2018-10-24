@@ -166,4 +166,20 @@ GUI - thee are two types of interfaces for a computer application.
 - GUI is what user sees. A user does not see the source code. The interface is visible to the user. Especially the focus is on the design stucture, omages that the are working properly or not.
 - If we have to do GUI testing we first check that the images should be comletely visible in different browsers. 
 - Also, the links are available, and the button should work when cliced.
-- Also, if the user resizes the screen, neither images nor content should shrink or crop or overlap. 
+- Also, if the user resizes the screen, neither images nor content should shrink or crop or overlap.
+What do you check in GUI testing? 
+- Check all the GUI elements for size, position, width, lenght and acceptance of characters or numbers.
+- Check you can execute the intended funcionality of the applicationusing GUI. 
+- Check error messages are displayed correctly. 
+- Check for clear demarcation of different sections on screen. 
+- Check font used in application is readable. 
+- Check the aligment of the texs is proper. 
+- Check the color of the font and warning messages is aesthetically pleasing. 
+- Check that the images have good clarity. 
+- Check that the images are properly aligned.
+- Check the positioning of GUI elements for different screen resolution. 
+GUI testing:
+- Manual based testing. 
+- Record and replay - GUI can be done using automation tools. 
+- Model based testing. A model is a graphical description of systems behavior. 
+
