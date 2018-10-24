@@ -170,7 +170,7 @@ GUI - thee are two types of interfaces for a computer application.
 
 What do you check in GUI testing? 
 - Check all the GUI elements for size, position, width, lenght and acceptance of characters or numbers.
-- Check you can execute the intended funcionality of the applicationusing GUI. 
+- Check you can execute the intended funcionality of the application using GUI. 
 - Check error messages are displayed correctly. 
 - Check for clear demarcation of different sections on screen. 
 - Check font used in application is readable. 
