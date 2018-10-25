@@ -182,5 +182,46 @@ What do you check in GUI testing?
 GUI testing:
 - Manual based testing. 
 - Record and replay - GUI can be done using automation tools. 
-- Model based testing. A model is a graphical description of systems behavior. 
+- Model based testing. A model is a graphical description of systems behavior.
+Examples of test cases, which consists of UI and usability tsts scenarios.
+TC 01- Verify that the text box with the label "Source Folder" is aligned properly.
+
+TC 02 - Verify that the text box with the label "Package" is aligned properly.
+
+TC 03 – Verify that label with the name "Browse" is a button which is located at the end of TextBox with the name "Source Folder."
+
+TC 04 – Verify that label with the name "Browse" is a button which is located at the end of Text Box with the name "Package."
+
+TC 05 – Verify that the text box with the label "Name" is aligned properly.
+
+TC 06 – Verify that the label "Modifiers" consists of 4 radio buttons with the name public, default, private, protected.
+
+TC 07 – Verify that the label "Modifiers" consists of 4 radio buttons which are aligned properly in a row.
+
+TC 08 – Verify that the label "Superclass" under the label "Modifiers" consists of a dropdown which must be proper aligned.
+
+TC 09 – Verify that the label "Superclass" consists of a button with the label "Browse" on it which must be properly aligned.
+
+TC 10 – Verify that clicking on any radio button the default mouse pointer must be changed to hand mouse pointer.
+
+TC 11 – Verify that user must not be able to type in the dropdown of "Superclass."
+
+TC 12 – Verify that there must be a proper error generated if something has been mistakenly chosen.
+
+TC 13 - Verify that the error must be generated in the RED color wherever it is necessary.
+
+TC 14 – Verify that proper labels must be used in the error messages.
+
+TC 15 – Verify that the single radio buttons must be selected by default every time.
+
+TC 16 – Verify that the TAB button must be work properly while jumping on other field next to previous.
+
+TC 17 – Verify that all the pages must contain the proper title.
+
+TC 18 – Verify that the page text must be proper aligned.
+
+TC 19 – Verify that after updating any field a proper confirmation message must be displayed.
+
+TC 20 - Verify that only 1 radio button must be selected and more than single checkboxes may be selected. 
+
 
