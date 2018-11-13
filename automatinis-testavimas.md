@@ -238,11 +238,11 @@ Rankinis testavimas
 
 - I should read a few times to see if there are spelling and grammar mistakes. Also text can be moved to Word and checked.
 - I should see if there is enough space between objects. (Visually)
--I should open links and look if there are good condition images. There are no photos in my website. 
--I should open all links and look if all pages will open.
--I see that my page has a title. 
--I see that my page is not left justified.(Visually)
--I can not do that but if I could, I would see if there are no changes after uploading picture. 
+- I should open links and look if there are good condition images. There are no photos in my website. 
+- I should open all links and look if all pages will open.
+- I see that my page has a title. 
+- I see that my page is not left justified.(Visually)
+- I can not do that but if I could, I would see if there are no changes after uploading picture. 
 - Other person should see if he or she can view uploaded images. 
 
 
