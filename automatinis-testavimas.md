@@ -225,25 +225,25 @@ TC 19 – Verify that after updating any field a proper confirmation message mus
 TC 20 - Verify that only 1 radio button must be selected and more than single checkboxes may be selected. 
 
 Rankinis testavimas
--Validation error messages should be displayed properly at a correct position.
--All error messages should be displayed in the same CSS style (e.g. using red color).
--Check text on all pages for spelling and grammatical errors.
--Enough space should be provided between field labels, columns, rows, error messages etc.
--Check all pages for broken images.
--Check all pages for broken links.
--All pages should have a title.
--Page text should be left justified.
--Check image quality after upload. Image quality should not be changed after upload.
--Check if the user is able to use/view the uploaded images.
+- Validation error messages should be displayed properly at a correct position.
+- All error messages should be displayed in the same CSS style (e.g. using red color).
+- Check text on all pages for spelling and grammatical errors.
+- Enough space should be provided between field labels, columns, rows, error messages etc.
+- Check all pages for broken images.
+- Check all pages for broken links.
+- All pages should have a title.
+- Page text should be left justified.
+- Check image quality after upload. Image quality should not be changed after upload.
+- Check if the user is able to use/view the uploaded images.
 
--I should read a few times to see if there are spelling and grammar mistakes. Also text can be moved to Word and checked.
--I should see if there is enough space between objects. (Visually)
+- I should read a few times to see if there are spelling and grammar mistakes. Also text can be moved to Word and checked.
+- I should see if there is enough space between objects. (Visually)
 -I should open links and look if there are good condition images. There are no photos in my website. 
 -I should open all links and look if all pages will open.
 -I see that my page has a title. 
 -I see that my page is not left justified.(Visually)
 -I can not do that but if I could, I would see if there are no changes after uploading picture. 
--Other person should see if he or she can view uploaded images. 
+- Other person should see if he or she can view uploaded images. 
 
 
 
