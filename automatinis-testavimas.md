@@ -244,6 +244,30 @@ Rankinis testavimas
 - I see that my page is not left justified.(Visually)
 - I can not do that but if I could, I would see if there are no changes after uploading picture. 
 - Other person should see if he or she can view uploaded images. 
+I should read a few times to see if there are spelling and grammar mistakes. Also text can be moved to Word and checked.
+https://stackoverflow.com/questions/10252448/how-to-check-whether-a-sentence-is-correct-simple-grammar-check-in-python .
+I should see if there is enough space between objects. 
+https://stackoverflow.com/questions/472000/usage-of-slots
+
+LanguageTool
+https://pypi.python.org/pypi/language-check
+
+I should open links and look if there are good condition images. There are no photos in my website.
+https://www.geeksforgeeks.org/working-images-python/
+
+I should open all links and look if all pages will open.
+
+https://stackoverflow.com/questions/32754229/python-and-beautifulsoup-opening-pages
+
+I see that my page has a title.
+https://stackoverflow.com/questions/51233/how-can-i-retrieve-the-page-title-of-a-webpage-using-python
+
+
+I see that my page is not left justified.
+https://stackoverflow.com/questions/40208877/how-to-check-if-your-file-is-left-justified
+
+Other person should see if he or she can view uploaded images.
+https://dzone.com/articles/image-processing-in-python-with-pillow
 
 
 
