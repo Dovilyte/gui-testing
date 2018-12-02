@@ -269,6 +269,8 @@ https://stackoverflow.com/questions/40208877/how-to-check-if-your-file-is-left-j
 Other person should see if he or she can view uploaded images.
 https://dzone.com/articles/image-processing-in-python-with-pillow
 
+Sąvokos:
+Dialox box - is a small window that communicates information to the user and prompts them for a response. 
 
 
 
